@@ -1,0 +1,12 @@
+[submodule "PredictingAgeAndGenderOfArtists"]
+	path = PredictingAgeAndGenderOfArtists
+	url = git@github.com:mkuziora/PredictingAgeAndGenderOfArtists.git
+[submodule "SciNewsClassification"]
+	path = SciNewsClassification
+	url = git@github.com:LeoWirz/SciNewsClassification.git
+[submodule "Quotes-Extraction"]
+	path = Quotes-Extraction
+	url = git@github.com:inesbahej/Quotes-Extraction.git
+[submodule "Lyrix"]
+	path = Lyrix
+	url = git@github.com:emlg/Lyrix.git
